@@ -1,0 +1,22 @@
+- How to deploy [common languages]
+
+    - Docker
+        - Redis
+        - Elasticsearch
+        - Hasura
+    - Website
+        - HTML
+        - CreateReactApp
+        - NextJS
+        - Jekyll
+        - Gatsby
+    - Ruby
+        - Rails
+    - Python
+        - Django
+    - Java
+        - Maven
+        - Gradle
+    - PHP
+        - Laravel
+        - Symfony
